@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{research.html}  
+
+
+{{<div align="center">
+<img src="photo/research.png" alt="research" height="300" width="1200">
+<br>
+<div align="justify">
+This page is an attempt to organize papers into distinct research areas, and to provide an overview of my works. 
+Naturally, the page is selective both in terms of research areas and the papers listed. For a more complete picture, please see the publications page.
+</div>
+</div>}}
+
+== Research on Accurate Incremental Support Vector Machines (NSF of China,2012-2015)
+\n
+
+*Incremental Support Vector Learning for Ordinal Regression*
+\n Bin Gu, Victor S. Sheng, Keng Yeow Tay, Walter Romano, Shuo Li
+\n IEEE Transactions on Neural Networks and Learning Systems, 26(7), pp. 1403 - 1416, 2015.
+\n *Abstract*. 
+
+{{<div align="justify">
+Support vector ordinal regression (SVOR) is a popular method to tackle ordinal regression problems. However, until now there were no effective algorithms proposed to address incremental SVOR learning due to the complicated formulations of SVOR. Recently, an interesting accurate on-line algorithm was proposed for training ν-support vector classification (ν-SVC), which can handle a quadratic formulation with a pair of equality constraints. In this paper, we first present a modified SVOR formulation based on a sum-of-margins strategy. The formulation has multiple constraints, and each constraint includes a mixture of an equality and an inequality. Then, we extend the accurate on-line ν-SVC algorithm to the modified formulation, and propose an effective incremental SVOR algorithm. The algorithm can handle a quadratic formulation with multiple constraints, where each constraint is constituted of an equality and an inequality. More importantly, it tackles the conflicts between the equality and inequality constraints. We also provide the finite convergence analysis for the algorithm. Numerical experiments on the several benchmark and real-world data sets show that the incremental algorithm can converge to the optimal solution in a finite number of steps, and is faster than the existing batch and incremental SVOR algorithms. Meanwhile, the modified formulation has better accuracy than the existing incremental SVOR algorithm, and is as accurate as the sum-of-margins based formulation of Shashua and Levin.
+ </div>}}
+{{<a href="publication/Incremental_Support_Vector_Learning_for_Ordinal_Regression.pdf"><img src="photo/pdf.ico" alt="pdf" height="30" width="30" /></a>}} 
+
+\n
+*Incremental Learning for ν-Support Vector Regression*
+\n Bin Gu, Victor S. Sheng, Zhijie Wang, Derek Ho, Said Osman, and Shuo Li
+\n Neural Networks, 67 (2015): 140-150.
+\n *Abstract*. 
+{{<div align="justify">
+The v-Support Vector Regression (v-SVR) is an effective regression learning algorithm, which has the advantage of using a parameter  on controlling the number of support vectors and adjusting the width of the tube automatically. However, compared to v-Support Vector Classification (v-SVC) (Schölkopf et al., 2000), v-SVR introduces an additional linear term into its objective function. Thus, directly applying the accurate on-line v-SVC algorithm (AONSVM) to v-SVR will not generate an effective initial solution. It is the main challenge to design an incremental v-SVR learning algorithm. To overcome this challenge, we propose a special procedure called initial adjustments in this paper. This procedure adjusts the weights of v-SVC based on the Karush–Kuhn–Tucker (KKT) conditions to prepare an initial solution for the incremental learning. Combining the initial adjustments with the two steps of AONSVM produces an exact and effective incremental v-SVR learning algorithm (INSVR). Theoretical analysis has proven the existence of the three key inverse matrices, which are the cornerstones of the three steps of INSVR (including the initial adjustments), respectively. The experiments on benchmark datasets demonstrate that INSVR can avoid the infeasible updating paths as far as possible, and successfully converges to the optimal solution. The results also show that INSVR is faster than batch v-SVR algorithms with both cold and warm starts.
+ </div>}}
+ 
+{{<a href="publication/Incremental learning for ν-Support Vector Regression.pdf"><img src="photo/pdf.ico" alt="pdf" height="30" width="30" /></a>
+<a href="code/code_example.zip"><img src="photo/Matlab_Logo.png" alt="matlab_code" height="25" width="25" /></a>}}
+
+
+
+== Research on Support Vector Machine Learning for Big Data from Crowdsourcing (NSF of China,2016-2019) 
+\n
+
+*Solving Large-Scale Support Vector Ordinal Regression with Asynchronous Parallel Coordinate Descent Algorithms*
+\n Bin Gu, Xiang Geng, Wanli Shia, Yingying Shana, Yufang Huang, Zhijie Wang, Guansheng Zheng
+\n Pattern Recognition
+\n *Abstract*. 
+
+{{<div align="justify">
+Support vector ordinal regression (SVOR) is a popular method to tackle ordinal regression problems. However, until now there were no effective algorithms proposed to address incremental SVOR learning due to the complicated formulations of SVOR. Recently, an interesting accurate on-line algorithm was proposed for training ν-support vector classification (ν-SVC), which can handle a quadratic formulation with a pair of equality constraints. In this paper, we first present a modified SVOR formulation based on a sum-of-margins strategy. The formulation has multiple constraints, and each constraint includes a mixture of an equality and an inequality. Then, we extend the accurate on-line ν-SVC algorithm to the modified formulation, and propose an effective incremental SVOR algorithm. The algorithm can handle a quadratic formulation with multiple constraints, where each constraint is constituted of an equality and an inequality. More importantly, it tackles the conflicts between the equality and inequality constraints. We also provide the finite convergence analysis for the algorithm. Numerical experiments on the several benchmark and real-world data sets show that the incremental algorithm can converge to the optimal solution in a finite number of steps, and is faster than the existing batch and incremental SVOR algorithms. Meanwhile, the modified formulation has better accuracy than the existing incremental SVOR algorithm, and is as accurate as the sum-of-margins based formulation of Shashua and Levin.
+ </div>}}
+{{<a href="publication/Solving large-scale support vector ordinal regression with asynchronous parallel coordinate descent algorithms.pdf"><img src="photo/pdf.ico" alt="pdf" height="30" width="30" /></a>}} 
