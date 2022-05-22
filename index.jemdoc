@@ -19,13 +19,11 @@ Dr. Gu currently is an assistant professor of the department of machine learning
 
 == Research
 My research interests mainly focus on large scale optimization in machine learning which includes: 
-- Large scale hyperparameter optimization
-- Parallel computation in machine learning
+- Black-box optimization
 - Federated learning
 - Stochastic optimization
-- Incremental learning
-- Large scale kernel learning
 - Spiking Neural Networks
+- Reinforcement learning
 
 
 
