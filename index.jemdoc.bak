@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Bin Gu
+
+~~~
+{}{img_left}{photo/bio.jpg}{alt text}{131}{160}{https://mbzuai.ac.ae/pages/bin-gu}
+Bin Gu, PhD \n  
+Assistant Professor \n  
+ The department fo machine learning \n
+ [https://mbzuai.ac.ae/ Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)], \n
+E-mail: bin.gu@mbzuai.ac.ae or jsgubin@gmail.com \n
+Address: Masdar City, Building 1B, 2rd Floor, Abu Dhabi, UAE
+
+~~~
+
+== About me
+Bin Gu received the B.S. and Ph.D. degrees in computer science from the [http://iao.nuaa.edu.cn/ Nanjing University of Aeronautics and Astronautics], Nanjing, China, in 2005 and 2011, respectively.
+
+Dr. Gu currently is an assistant professor of department of machine learning in Mohamed bin Zayed University of Artificial Intelligence. He is also an adjunct professor of [https://www.uwo.ca/ Western University]. Before joining MBZUAI, he was a full professor of [https://en.nuist.edu.cn/, Nanjing University of Information Science and Technology]. He was a Post-Doctoral Fellow with the [https://www.uwo.ca/ University of Western Ontario], London, ON, Canada, from Feb. 2013 to Feb. 2015. He was a Post-Doctoral Fellow with the [https://www.uta.edu/ University of Texas at Arlington], from Aug. 2016 to Aug. 2017. He was a Post-Doctoral Fellow with the [https://www.pitt.edu/ University of Pittsburgh] from Sep. 2017 to July. 2018.
+
+== Research
+My research interests mainly focus on large scale optimization in machine learning which includes: 
+- Large scale hyperparameter optimization
+- Parallel computation in machine learning
+- Federated learning
+- Stochastic optimization
+- Incremental learning
+- Large scale kernel learning
+
+
+[research.html Find out more].
+
+I am recruiting Postdoc, PhD, Master and Intern students in [https://mbzuai.ac.ae/ MBZUAI],  with high motivation of doing research on large scale optimizaiton in machine learning. If you are interested, please feel free to contact me.
+
+
+
+=== Recent Publications 
+. Wanli Shi, Bin Gu, Heng Huang. Improved Penalty Method via Doubly Stochastic Gradients for Bilevel Hyperparameter Optimization. AAAI 2021.
+. Zhouyuan  Huo, Bin Gu, Heng Huang. Large Batch Optimization for Deep Learning Using New Complete Layer-Wise Adaptive Rate Scaling. AAAI 2021.
+. Huimin Wu, Bin Gu, Zhengmian Hu, Heng Huang. Fast and Scalable Adversarial Training of Kernel SVM via Doubly Stochastic Gradients. AAAI 2021.
+. Qinsong Zhang, Bin Gu, Cheng Deng, Heng Huang. Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating. AAAI 2021.
+. Bin Gu, Zhiyuan Dang, Zhouyuan Huo, Cheng Deng and Heng Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[publications.html Full list of publications].
+\n
+# [cv.pdf A brief cv].
