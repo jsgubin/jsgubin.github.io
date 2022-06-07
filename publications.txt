@@ -87,3 +87,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . *Bin Gu*, Victor S. Sheng. Bi-parameter Space Partition for Cost-Sensitive SVM. IJCAI 2015.
 . Xiang Li, Huaiming Wang, *Bin Gu*, Charles X. Ling. Data Sparseness in Linear SVM. IJCAI 2015.
 . *Bin Gu*, Jian-Dong Wang, and Hai-yan Chen. On-line Off-line Ranking Support Vector Machine and Analysis. In Proceedings of International Joint Conference on Neural Networks (IJCNN‚ 2008), New York: IEEE Press, 2008.
+
+
+
+
