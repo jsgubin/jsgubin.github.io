@@ -5,6 +5,8 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 \n
 
 == Journals
+. Zhiyuan Dang, *Bin Gu*, Cheng Deng, Heng Huang. Asynchronous Parallel Large-Scale Gaussian Process Regression. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
+. Haiyan Chen, Yin Yu, Yizhen Jia, *Bin Gu*. Incremental Learning for Transductive Support Vector Machine. Pattern Recognition. (accepted)
 . Zhou Zhai, Heng Huang, *Bin Gu*. Kernel Path for Semi-Supervised Support Vector Machine. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . Ziran Xiong, Charles X. Ling, *Bin Gu*. Kernel Error Path Algorithm. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . Haiyan Chen, Yizhen Jia, Jiaming Ge, *Bin Gu*. Incremental learning algorithm for large-scale semi-supervised ordinal regression. Neural Networks. (accepted)
@@ -46,6 +48,13 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 
 == Conferences
+. Hualin Zhang, Huan Xiong, *Bin Gu*. Zeroth-Order Negative Curvature Finding: Escaping Saddle Points without Gradients. NeurIPS 2022. (accepted)
+. Xingyu Qu, Diyang Li, Xiaohan Zhao, *Bin Gu*. GAGA: Deciphering Age-path of Generalized Self-paced Regularizer. NeurIPS 2022. (accepted)
+. William de Vazelhes, Hualin Zhang, Huimin Wu, Xiaotong Yuan, *Bin Gu*. Zeroth-Order Hard-Thresholding: Gradient Error vs. Expansivity. NeurIPS 2022. (accepted)
+. Huimin Wu, William de Vazelhes, *Bin Gu*. Efficient Semi-Supervised Adversarial Training without Guessing Labels. ICDM 2022. (accepted)
+. Runxue Bao, *Bin Gu*, Heng Huang. An Accelerated Doubly Stochastic Gradient Method with Faster Explicit Model Identification. CIKM 2022.
+. Zhengqing Gao, Huimin Wu, Martin Takac and *Bin Gu*. Towards Practical Large Scale Non-Linear Semi-Supervised Learning with Balanced Constraints. CIKM 2022.
+. *Bin Gu*, Zhou Zhai, Xiang Li, Heng Huang. Towards Fairer Classifier via True Fairness Score Path. CIKM 2022.
 . Wanli Shi, Hongchan Gao, *Bin Gu*. Gradient-Free Method for Heavily Constrained Nonconvex Optimization. ICML 2022, (accepted)
 . Alexander Gasnikov, Anton Novitskii, Vasilii Novitskii, Farshed Abdukhakimov, Dmitry Kamzolov, Aleksandr Beznosikov, Martin Takáč, Pavel Dvurechensky, *Bin Gu*. The power of first-order smooth optimization for black-box non-smooth problems. ICML 2022, (accepted)
 . Ziran Xiong, Wanli Shi, *Bin Gu*. End-to-End Semi-Supervised Ordinal Regression AUC Maximization with Convolutional Kernel Networks. KDD 2022, (accepted)
