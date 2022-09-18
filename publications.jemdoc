@@ -3,6 +3,7 @@
 == Publications
 Full publications can be found in [https://scholar.google.com/citations?user=Vo8OgCgAAAAJ&hl=en Google scholar].
 \n
+\* means equal contribution.
 
 == Journals
 . Zhiyuan Dang, *Bin Gu*, Cheng Deng, Heng Huang. Asynchronous Parallel Large-Scale Gaussian Process Regression. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
@@ -20,7 +21,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . *Bin Gu*, Zhiyuan Dang, Zhouyuan Huo, Cheng Deng and Heng Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence. (accepted)
 . Zhiyuan Dang, Xiang Li, *Bin Gu*, Cheng Deng, Heng Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2020 Sep 18.
 . *Bin Gu*, Wenhan Xian, Zhouyuan Huo, Cheng Deng and Heng Huang. A Unified q-Memorization Framework for Asynchronous Stochastic Optimization. Journal of Machine Learning Research. 21, no. 190 (2020): 1-53.
-. *Bin Gu*, Zhou Zhai, Cheng Deng, and Heng Huang. Efficient Active Learning by Querying Discriminative and Representative Samples and Fully Exploiting Unlabeled Data. IEEE Transactions on Neural Networks and Learning Systems.(accepted)
+. *Bin Gu*\*, Zhou Zhai\*, Cheng Deng, and Heng Huang. Efficient Active Learning by Querying Discriminative and Representative Samples and Fully Exploiting Unlabeled Data. IEEE Transactions on Neural Networks and Learning Systems.(accepted)
 . *Bin Gu*, Xiang Geng, Xiang Li, Wanli Shi, Guansheng Zheng, Cheng Deng, and Heng Huang. Scalable Kernel Ordinal Regression via Doubly Stochastic Gradients. IEEE Transactions on Neural Networks and Learning Systems.(accepted)
 . *Bin Gu*, Xiang Geng, Wanli Shia, Yingying Shana, Yufang Huang, Zhijie Wang, Guansheng Zheng. Solving Large-Scale Support Vector Ordinal Regression with Asynchronous Parallel Coordinate Descent Algorithms. Pattern Recognition. (accepted)
 . *Bin Gu*, Xiang Geng, Xiang Li, Guansheng Zheng. Efficient Inexact Proximal Gradient Algorithms for Structured Sparsity-Inducing Norm. Neural Networks. 
@@ -54,14 +55,14 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Huimin Wu, William de Vazelhes, *Bin Gu*. Efficient Semi-Supervised Adversarial Training without Guessing Labels. ICDM 2022. (accepted)
 . Runxue Bao, *Bin Gu*, Heng Huang. An Accelerated Doubly Stochastic Gradient Method with Faster Explicit Model Identification. CIKM 2022.
 . Zhengqing Gao, Huimin Wu, Martin Takac and *Bin Gu*. Towards Practical Large Scale Non-Linear Semi-Supervised Learning with Balanced Constraints. CIKM 2022.
-. *Bin Gu*, Zhou Zhai, Xiang Li, Heng Huang. Towards Fairer Classifier via True Fairness Score Path. CIKM 2022.
+. *Bin Gu*\*, Zhou Zhai\*, Xiang Li, Heng Huang. Towards Fairer Classifier via True Fairness Score Path. CIKM 2022.
 . Wanli Shi, Hongchan Gao, *Bin Gu*. Gradient-Free Method for Heavily Constrained Nonconvex Optimization. ICML 2022, (accepted)
 . Alexander Gasnikov, Anton Novitskii, Vasilii Novitskii, Farshed Abdukhakimov, Dmitry Kamzolov, Aleksandr Beznosikov, Martin Takáč, Pavel Dvurechensky, *Bin Gu*. The power of first-order smooth optimization for black-box non-smooth problems. ICML 2022, (accepted)
 . Ziran Xiong, Wanli Shi, *Bin Gu*. End-to-End Semi-Supervised Ordinal Regression AUC Maximization with Convolutional Kernel Networks. KDD 2022, (accepted)
-. *Bin Gu*, Chenkang Zhang, Huan Xiong, Heng Huang. Balanced Self-Paced Learning for AUC Maximization. AAAI 2022.
+. *Bin Gu*\*, Chenkang Zhang\*, Huan Xiong, Heng Huang. Balanced Self-Paced Learning for AUC Maximization. AAAI 2022.
 . Junyi Li, *Bin Gu*, Heng Huang. A Fully Single Loop Algorithm for Bilevel Optimization without Hessian Inverse. AAAI 2022.
 . Diyang Li, *Bin Gu*. Chunk Dynamic Updating for Group Lasso with ODEs. AAAI 2022.
-. *Bin Gu*, Zhou Zhai, Xiang Li  Heng Huang. Finding Age Path of Self-Paced Learning. ICDM 2021.
+. *Bin Gu*\*, Zhou Zhai\*, Xiang Li  Heng Huang. Finding Age Path of Self-Paced Learning. ICDM 2021.
 . Qinsong Zhang, *Bin Gu*, Cheng Deng, Heng Huang. Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm. CIKM 2021.
 . Qinsong Zhang, *Bin Gu*, Cheng Deng, Jian Pei, Heng Huang. AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization. KDD 2021.
 . Wanli Shi, *Bin Gu*, Heng Huang. Improved Penalty Method via Doubly Stochastic Gradients for Bilevel Hyperparameter Optimization. AAAI 2021.
