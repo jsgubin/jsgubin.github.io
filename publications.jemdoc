@@ -49,7 +49,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 == Conferences
 . Hualin Zhang, Huan Xiong, *Bin Gu*. Zeroth-Order Negative Curvature Finding: Escaping Saddle Points without Gradients. NeurIPS 2022. (accepted)
-. Xingyu Qu, Diyang Li, Xiaohan Zhao, *Bin Gu*. GAGA: Deciphering Age-path of Generalized Self-paced Regularizer. NeurIPS 2022. (accepted)
+. Xingyu Qu\*, Diyang Li\*, Xiaohan Zhao, *Bin Gu*. GAGA: Deciphering Age-path of Generalized Self-paced Regularizer. NeurIPS 2022. (accepted)
 . William de Vazelhes, Hualin Zhang, Huimin Wu, Xiaotong Yuan, *Bin Gu*. Zeroth-Order Hard-Thresholding: Gradient Error vs. Expansivity. NeurIPS 2022. (accepted)
 . Huimin Wu, William de Vazelhes, *Bin Gu*. Efficient Semi-Supervised Adversarial Training without Guessing Labels. ICDM 2022. (accepted)
 . Runxue Bao, *Bin Gu*, Heng Huang. An Accelerated Doubly Stochastic Gradient Method with Faster Explicit Model Identification. CIKM 2022.
