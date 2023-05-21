@@ -50,11 +50,8 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 
 == Conferences
-<<<<<<< HEAD
-. Huimin Wu, Wanli Shi, Zhang Chenkang, *Bin Gu*. Self-Adaptive Perturbation Radii for Adversarial Training. KDD 2023. (accepted)
+. Huimin Wu, Wanli Shi, Zhang Chenkang, *Bin Gu* Self-Adaptive Perturbation Radii for Adversarial Training. KDD 2023. (accepted)
 . Zhang Chenkang, Wanli Shi, Lei Luo, *Bin Gu*. Doubly Robust AUC Optimization against Noisy and Adversarial Samples. KDD 2023. (accepted)
-=======
->>>>>>> 4e4a3731d9e840bbb0afdb0287d648e76b454389
 . Haiyan Jiang, Srinivas Anumasa, Giulia De Masi, Huan Xiong, *Bin Gu*. A unified optimization framework of ANN-SNN Conversion: towards optimal mapping from activation values to firing rates. ICML 2023. (accepted)
 . Hualin Zhang, *Bin Gu*. Faster Gradient-Free Methods for Escaping Saddle Points. ICLR 2023. (accepted)
 . Hongchang Gao, *Bin Gu*, My T Thai. Stochastic bilevel distributed optimization over a network. AISTATS 2023. 
