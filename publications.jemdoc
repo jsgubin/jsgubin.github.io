@@ -6,6 +6,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 \* means equal contribution.
 
 == Journals
+. *Bin Gu*, Runxue Bao, Chenkang Zhang, Heng Huang. New Scalable and Efficient Online Pairwise Learning Algorithm. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . *Bin Gu*, Zhouyuan Huo, Chenkang Zhang, Cheng Deng, Heng Huang. A New Large-Scale Learning Algorithm  for Generalized  Additive Models. Machine Learning. (accepted)
 . Zhiyuan Dang, *Bin Gu*, Cheng Deng, Heng Huang. Asynchronous Parallel Large-Scale Gaussian Process Regression. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . Haiyan Chen, Yin Yu, Yizhen Jia, *Bin Gu*. Incremental Learning for Transductive Support Vector Machine. Pattern Recognition. (accepted)
@@ -50,16 +51,21 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 
 == Conferences
-. Huimin Wu, Wanli Shi, Zhang Chenkang, *Bin Gu*. Self-Adaptive Perturbation Radii for Adversarial Training. KDD 2023. (accepted)
-. Zhang Chenkang, Wanli Shi, Lei Luo, *Bin Gu*. Doubly Robust AUC Optimization against Noisy and Adversarial Samples. KDD 2023. (accepted)
-. Haiyan Jiang, Srinivas Anumasa, Giulia De Masi, Huan Xiong, *Bin Gu*. A unified optimization framework of ANN-SNN Conversion: towards optimal mapping from activation values to firing rates. ICML 2023. (accepted)
-. Hualin Zhang, *Bin Gu*. Faster Gradient-Free Methods for Escaping Saddle Points. ICLR 2023. (accepted)
+. Xiaohan Zhao, Hualin Zhang, Zhouyuan Huo, *Bin Gu*. Accelerated On-Device Forward Neural Network Training with Module-Wise Descending Asynchronism. NeurIPS 2023. (accepted)
+. Jun Chen, Hong Chen, *Bin Gu*, Hao Deng. Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization. NeurIPS 2023. (accepted)
+. Ganyu Wang, *Bin Gu*, Qingsong Zhang, Xiang Li, Boyu Wang, Charles X. Ling*. A Unified Solution for Privacy and Communication Efficiency in Vertical Federated Learning. NeurIPS 2023. (accepted)
+. Bhaskar Mukhoty, Velibor Bojkovic, William de Vazelhes, Xiaohan Zhao, Giulia De Masi, Huan Xiong*, *Bin Gu*. Variance Reduced Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory. NeurIPS 2023. (accepted)
+. Hilal Mohammad Hilal AlQuabe'h, Bhaskar Mukhoty, *Bin Gu*. Variance Reduced Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory. ACML 2023. (accepted)
+. Huimin Wu, Wanli Shi, Zhang Chenkang, *Bin Gu*. Self-Adaptive Perturbation Radii for Adversarial Training. KDD 2023. 
+. Zhang Chenkang, Wanli Shi, Lei Luo, *Bin Gu*. Doubly Robust AUC Optimization against Noisy and Adversarial Samples. KDD 2023.
+. Haiyan Jiang, Srinivas Anumasa, Giulia De Masi, Huan Xiong, *Bin Gu*. A unified optimization framework of ANN-SNN Conversion: towards optimal mapping from activation values to firing rates. ICML 2023.
+. Hualin Zhang, *Bin Gu*. Faster Gradient-Free Methods for Escaping Saddle Points. ICLR 2023. 
 . Hongchang Gao, *Bin Gu*, My T Thai. Stochastic bilevel distributed optimization over a network. AISTATS 2023. 
 . Zhou Zhai, Lei Luo, Heng Huang, *Bin Gu*. Faster Fair Machine via Transferring Fairness Constraints to Virtual Samples. AAAI 2023.
 . Chenkang Zhang, Lei Luo, *Bin Gu*. Denoising Multi-Similarity Formulation: A Self-paced Curriculum-Driven Approach for Robust Metric Learning. AAAI 2023. 
 . Diyang Li, *Bin Gu*. When Online Learning Meets ODE: Learning without Forgetting on Variable Feature Space. AAAI 2023. 
-. Jun Chen, Hong Chen, XUE JIANG, *Bin Gu*, Weifu Li, Tieliang Gong, Feng Zheng. On the Stability and Generalization of Triplet Learning. AAAI 2023. (accepted)
-. Jiahuan Wang, Jun Chen, Hong Chen, *Bin Gu*, Weifu Li, Xin Tang. Hong Chen, Bin Gu. Stability-based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning. AAAI 2023. 
+. Jun Chen, Hong Chen, XUE JIANG, *Bin Gu*, Weifu Li, Tieliang Gong, Feng Zheng. On the Stability and Generalization of Triplet Learning. AAAI 2023.
+. Jiahuan Wang, Jun Chen, Hong Chen, *Bin Gu*, Weifu Li, Xin Tang. Stability-based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning. AAAI 2023. 
 . Hualin Zhang, Huan Xiong, *Bin Gu*. Zeroth-Order Negative Curvature Finding: Escaping Saddle Points without Gradients. NeurIPS 2022. (spotlight)
 . Xingyu Qu\*, Diyang Li\*, Xiaohan Zhao, *Bin Gu*. GAGA: Deciphering Age-path of Generalized Self-paced Regularizer. NeurIPS 2022. (spotlight)
 . William de Vazelhes, Hualin Zhang, Huimin Wu, Xiaotong Yuan, *Bin Gu*. Zeroth-Order Hard-Thresholding: Gradient Error vs. Expansivity. NeurIPS 2022. 
@@ -84,16 +90,16 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Runxue Bao, *Bin Gu*, Heng Huang. Fast OSCAR and OWL with Safe Screening Rules. ICML 2020.
 . *Bin Gu*, Zhiyuan Dang, Xiang Li and Heng Huang. Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data. KDD 2020.
 . Wanli Shi,Victor S. Sheng, Xiang Li, *Bin Gu*. Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model. KDD 2020.
-. Wanli Shi, *Bin Gu*, Xiang Li, Heng Huang. Quadruply Stochastic Gradient Method for Large Scale Nonlinear Semi-Supervised Ordinal Regression AUC Optimization. AAAI 2020.(accepted)
-. Zhou Zhai, *Bin Gu*, Xiang Li, Heng Huang. Safe Sample Screening for Robust Support Vector Machine. AAAI 2020.(accepted)
+. Wanli Shi, *Bin Gu*, Xiang Li, Heng Huang. Quadruply Stochastic Gradient Method for Large Scale Nonlinear Semi-Supervised Ordinal Regression AUC Optimization. AAAI 2020.
+. Zhou Zhai, *Bin Gu*, Xiang Li, Heng Huang. Safe Sample Screening for Robust Support Vector Machine. AAAI 2020.
 . Runxue Bao, *Bin Gu*, Heng Huang. Efficient Approximate Solution Path Algorithm for Order Weight L_1-Norm with Accuracy Guarantee. ICDM 2019.
 . *Bin Gu*, Wenhan Xian, Heng Huang. Asynchronous Stochastic Frank-Wolfe Algorithms for Non-convex Optimization. IJCAI 2019.
 . Xiang Geng, *Bin Gu*, Xiang Li, Wanli Shi, Guansheng Zheng, Heng Huang. Scalable Semi-Supervised SVM via Triply Stochastic Gradients. IJCAI 2019.
 . Wanli Shi, *Bin Gu*, Xiang Li, Xiang Geng, Heng Huang. Quadruply Stochastic Gradients for Large-Scale Nonlinear Semi-Supervised AUC Optimization. IJCAI 2019.
 . Shuyang Yu, *Bin Gu*, Kunpeng Ning, Haiyan Chen, Jian Pei and Heng Huang. Tackle Balancing Constraint for Incremental Semi-Supervised Support Vector Learning. KDD 2019.
 . Feihu Huang, *Bin Gu*, Zhouyuan  Huo, Songcan Chen, Heng  Huang. Faster Gradient-Free Proximal Stochastic Methods forNonconvex Nonsmooth Optimization. AAAI 2019.
-. *Bin Gu*, Zhouyuan  Huo, Heng  Huang. Scalable and Efficient Pairwise Learning to Achieve Statistical Accuracy.  AAAI 2019. (accepted)
-. Zhouyuan Huo, *Bin Gu*, Heng Huang. Training Neural Networks Using Features Replay. NIPS 2018. (accepted)
+. *Bin Gu*, Zhouyuan  Huo, Heng  Huang. Scalable and Efficient Pairwise Learning to Achieve Statistical Accuracy.  AAAI 2019. 
+. Zhouyuan Huo, *Bin Gu*, Heng Huang. Training Neural Networks Using Features Replay. NIPS 2018. 
 . *Bin Gu*, Zhouyuan  Huo, Heng  Huang. Faster Derivative-Free Stochastic Algorithm for Shared Memory Machines. ICML 2018.
 . Zhouyuan Huo, *Bin Gu*, Qian Yang, Heng Huang. Decoupled Parallel Backpropagation with Convergence Guarantee. ICML 2018.
 . *Bin Gu*, Xiao-Tong Yuan, Songcan Chen, Heng Huang. New Incremental Learning Algorithm for Semi-Supervised Support Vector Machine. KDD 2018.
@@ -108,4 +114,4 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . *Bin Gu*,Charles X. Ling. A New Generalized Error Path Algorithm for Model Selection. ICML 2015.
 . *Bin Gu*, Victor S. Sheng. Bi-parameter Space Partition for Cost-Sensitive SVM. IJCAI 2015.
 . Xiang Li, Huaiming Wang, *Bin Gu*, Charles X. Ling. Data Sparseness in Linear SVM. IJCAI 2015.
-. *Bin Gu*, Jian-Dong Wang, and Hai-yan Chen. On-line Off-line Ranking Support Vector Machine and Analysis. In Proceedings of International Joint Conference on Neural Networks (IJCNNâ€š 2008), New York: IEEE Press, 2008.
+. *Bin Gu*, Jian-Dong Wang, and Hai-yan Chen. On-line Off-line Ranking Support Vector Machine and Analysis. In Proceedings of International Joint Conference on Neural Networks (IJCNNâ€?2008), New York: IEEE Press, 2008.
