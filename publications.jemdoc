@@ -11,23 +11,23 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Zhiyuan Dang, *Bin Gu*, Cheng Deng, Heng Huang. Asynchronous Parallel Large-Scale Gaussian Process Regression. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . Haiyan Chen, Yin Yu, Yizhen Jia, *Bin Gu*. Incremental Learning for Transductive Support Vector Machine. Pattern Recognition. (accepted)
 . Zhou Zhai, Heng Huang, *Bin Gu*. Kernel Path for Semi-Supervised Support Vector Machine. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
-. Ziran Xiong, Charles X. Ling, *Bin Gu*. Kernel Error Path Algorithm. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
-. Haiyan Chen, Yizhen Jia, Jiaming Ge, *Bin Gu*. Incremental learning algorithm for large-scale semi-supervised ordinal regression. Neural Networks. (accepted)
-. *Bin Gu*, Ziran Xiong, Xiang Li, Zhou Zhai, Guansheng Zheng. Kernel Path for $\nu$-Support Vector Classification. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
-. *Bin Gu*, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng and Heng Huang. Back-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity. Journal of Machine Learning Research (JMLR). (accepted)
-. *Bin Gu*, Charles X. Ling. Generalized Error Path Algorithm. Pattern Recognition. (accepted)
-. Wanli Shi, *Bin Gu*, Xiang Li, Cheng Deng and Heng Huang. Triply Stochastic Gradient Method for Large-Scale Nonlinear Similar Unlabeled Classification. Machine Learning. (accepted)
-. *Bin Gu*, Ziran Xiong, Shuyang Yu, Guansheng Zheng. A Kernel Path Algorithm for General Parametric Quadratic Programming Problem. Pattern Recognition. (accepted)
-. *Bin Gu*, An Xu,  Zhouyuan Huo, Cheng Deng and Heng Huang. Privacy-Preserving Asynchronous Vertical Federated Learning Algorithms for Multi-Party Collaborative Learning. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
+. Ziran Xiong, Charles X. Ling, *Bin Gu*. Kernel Error Path Algorithm. IEEE Transactions on Neural Networks and Learning Systems. 
+. Haiyan Chen, Yizhen Jia, Jiaming Ge, *Bin Gu*. Incremental learning algorithm for large-scale semi-supervised ordinal regression. Neural Networks. 
+. *Bin Gu*, Ziran Xiong, Xiang Li, Zhou Zhai, Guansheng Zheng. Kernel Path for $\nu$-Support Vector Classification. IEEE Transactions on Neural Networks and Learning Systems.
+. *Bin Gu*, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng and Heng Huang. Back-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity. Journal of Machine Learning Research (JMLR). 
+. *Bin Gu*, Charles X. Ling. Generalized Error Path Algorithm. Pattern Recognition. 
+. Wanli Shi, *Bin Gu*, Xiang Li, Cheng Deng and Heng Huang. Triply Stochastic Gradient Method for Large-Scale Nonlinear Similar Unlabeled Classification. Machine Learning.
+. *Bin Gu*, Ziran Xiong, Shuyang Yu, Guansheng Zheng. A Kernel Path Algorithm for General Parametric Quadratic Programming Problem. Pattern Recognition. 
+. *Bin Gu*, An Xu,  Zhouyuan Huo, Cheng Deng and Heng Huang. Privacy-Preserving Asynchronous Vertical Federated Learning Algorithms for Multi-Party Collaborative Learning. IEEE Transactions on Neural Networks and Learning Systems.
 . Zhiyuan Dang, *Bin Gu*, Heng Huang. Large-Scale Kernel Method for Vertical Federated Learning. Federated Learning. Springer.
-. *Bin Gu*, Zhiyuan Dang, Zhouyuan Huo, Cheng Deng and Heng Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence. (accepted)
+. *Bin Gu*, Zhiyuan Dang, Zhouyuan Huo, Cheng Deng and Heng Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 . Zhiyuan Dang, Xiang Li, *Bin Gu*, Cheng Deng, Heng Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2020 Sep 18.
 . *Bin Gu*, Wenhan Xian, Zhouyuan Huo, Cheng Deng and Heng Huang. A Unified q-Memorization Framework for Asynchronous Stochastic Optimization. Journal of Machine Learning Research. 21, no. 190 (2020): 1-53.
-. *Bin Gu*\*, Zhou Zhai\*, Cheng Deng, and Heng Huang. Efficient Active Learning by Querying Discriminative and Representative Samples and Fully Exploiting Unlabeled Data. IEEE Transactions on Neural Networks and Learning Systems.(accepted)
-. *Bin Gu*, Xiang Geng, Xiang Li, Wanli Shi, Guansheng Zheng, Cheng Deng, and Heng Huang. Scalable Kernel Ordinal Regression via Doubly Stochastic Gradients. IEEE Transactions on Neural Networks and Learning Systems.(accepted)
-. *Bin Gu*, Xiang Geng, Wanli Shia, Yingying Shana, Yufang Huang, Zhijie Wang, Guansheng Zheng. Solving Large-Scale Support Vector Ordinal Regression with Asynchronous Parallel Coordinate Descent Algorithms. Pattern Recognition. (accepted)
+. *Bin Gu*\*, Zhou Zhai\*, Cheng Deng, and Heng Huang. Efficient Active Learning by Querying Discriminative and Representative Samples and Fully Exploiting Unlabeled Data. IEEE Transactions on Neural Networks and Learning Systems.
+. *Bin Gu*, Xiang Geng, Xiang Li, Wanli Shi, Guansheng Zheng, Cheng Deng, and Heng Huang. Scalable Kernel Ordinal Regression via Doubly Stochastic Gradients. IEEE Transactions on Neural Networks and Learning Systems.
+. *Bin Gu*, Xiang Geng, Wanli Shia, Yingying Shana, Yufang Huang, Zhijie Wang, Guansheng Zheng. Solving Large-Scale Support Vector Ordinal Regression with Asynchronous Parallel Coordinate Descent Algorithms. Pattern Recognition.
 . *Bin Gu*, Xiang Geng, Xiang Li, Guansheng Zheng. Efficient Inexact Proximal Gradient Algorithms for Structured Sparsity-Inducing Norm. Neural Networks. 
-. *Bin Gu*, Yingying ShanÔºåXin Quan,  Guansheng Zheng. Accelerating Sequential Minimal Optimization via Stochastic Sub-Gradient Descent. IEEE Transactions on Cybernetics.
+. *Bin Gu*, Yingying Shan, Xin Quan, Guansheng Zheng. Accelerating Sequential Minimal Optimization via Stochastic Sub-Gradient Descent. IEEE Transactions on Cybernetics.
 . *Bin Gu*, Xin Quan, Yunhua Gu, Victor S. Sheng, Guansheng Zheng. Chunk Incremental Learning for Cost-Sensitive Hinge Loss Support Vector Machine. Pattern Recognition. 
 . *Bin Gu*, Victor S. Sheng. A Solution Path Algorithm for General Parametric Quadratic Programming Problem.  IEEE Transactions on Neural Networks and Learning Systems.
 . *Bin Gu*. A Regularization Path Algorithm for Support Vector Ordinal Regression. Neural Networks.
@@ -51,10 +51,12 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 
 == Conferences
+. Yufan Huang, Mengnan Qi, Yongqiang Yao, Maoquan Wang, *Bin Gu*, Colin Clement, Neel Sundaresan. Program Translation via Code Distillation. EMNLP 2023. (to appear)
+. Mengnan Qi, Yufan Huang, Maoquan Wang, Yongqiang Yao, Zihan Liu, *Bin Gu*, Colin Clement, Neel Sundaresan. SUT: Active Defects Probing for Transcompiler Models. EMNLP 2023. (to appear)
 . Xiaohan Zhao, Hualin Zhang, Zhouyuan Huo, *Bin Gu*. Accelerated On-Device Forward Neural Network Training with Module-Wise Descending Asynchronism. NeurIPS 2023. (accepted)
 . Jun Chen, Hong Chen, *Bin Gu*, Hao Deng. Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization. NeurIPS 2023. (accepted)
 . Ganyu Wang, *Bin Gu*, Qingsong Zhang, Xiang Li, Boyu Wang, Charles X. Ling*. A Unified Solution for Privacy and Communication Efficiency in Vertical Federated Learning. NeurIPS 2023. (accepted)
-. Bhaskar Mukhoty, Velibor Bojkovic, William de Vazelhes, Xiaohan Zhao, Giulia De Masi, Huan Xiong*, *Bin Gu*. Direct Training of SNN using Local Zeroth Order Method. NeurIPS 2023. (accepted)
+. Bhaskar Mukhoty, Velibor Bojkovic, William de Vazelhes, Xiaohan Zhao, Giulia De Masi, Huan Xiong, *Bin Gu*. Direct Training of SNN using Local Zeroth Order Method. NeurIPS 2023. (accepted)
 . Hilal Mohammad Hilal AlQuabe'h, Bhaskar Mukhoty, *Bin Gu*. Variance Reduced Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory. ACML 2023. (accepted)
 . Huimin Wu, Wanli Shi, Zhang Chenkang, *Bin Gu*. Self-Adaptive Perturbation Radii for Adversarial Training. KDD 2023. 
 . Zhang Chenkang, Wanli Shi, Lei Luo, *Bin Gu*. Doubly Robust AUC Optimization against Noisy and Adversarial Samples. KDD 2023.
@@ -74,7 +76,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Zhengqing Gao, Huimin Wu, Martin Takac and *Bin Gu*. Towards Practical Large Scale Non-Linear Semi-Supervised Learning with Balanced Constraints. CIKM 2022.
 . *Bin Gu*\*, Zhou Zhai\*, Xiang Li, Heng Huang. Towards Fairer Classifier via True Fairness Score Path. CIKM 2022.
 . Wanli Shi, Hongchan Gao, *Bin Gu*. Gradient-Free Method for Heavily Constrained Nonconvex Optimization. ICML 2022.
-. Alexander Gasnikov, Anton Novitskii, Vasilii Novitskii, Farshed Abdukhakimov, Dmitry Kamzolov, Aleksandr Beznosikov, Martin Takáč, Pavel Dvurechensky, *Bin Gu*. The power of first-order smooth optimization for black-box non-smooth problems. ICML 2022.
+. Alexander Gasnikov, Anton Novitskii, Vasilii Novitskii, Farshed Abdukhakimov, Dmitry Kamzolov, Aleksandr Beznosikov, Martin Takac, Pavel Dvurechensky, *Bin Gu*. The power of first-order smooth optimization for black-box non-smooth problems. ICML 2022.
 . Ziran Xiong, Wanli Shi, *Bin Gu*. End-to-End Semi-Supervised Ordinal Regression AUC Maximization with Convolutional Kernel Networks. KDD 2022.
 . *Bin Gu*\*, Chenkang Zhang\*, Huan Xiong, Heng Huang. Balanced Self-Paced Learning for AUC Maximization. AAAI 2022.
 . Junyi Li, *Bin Gu*, Heng Huang. A Fully Single Loop Algorithm for Bilevel Optimization without Hessian Inverse. AAAI 2022.
