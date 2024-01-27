@@ -6,6 +6,8 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 \* means equal contribution.
 
 == Journals
+. Yajing Fan, Shuyang Yu, *Bin Gu*, Ziran Xiong, Zhou Zhai, Heng Huang, and Yi Chang. Global Model Selection for Semi-Supervised Support Vector Machine via Solution Paths. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
+. Zhuang Qian, Shufei Zhang, Kaizhu Huang, Qiufeng Wang, Xinping Yi, *Bin Gu*, Huan Xiong. Perturbation diversity certificates robust generalization. Neural Networks. (accepted)
 . Zhou Zhai, *Bin Gu*, Cheng Deng and Heng Huang. Global Model Selection via Solution Paths for Robust Support Vector Machine. IEEE Transactions on Pattern Analysis and Machine Intelligence. (accepted)
 . Nan Yin, Li Shen, Huan Xiong, *Bin Gu*, Chong Chen, Xian-Sheng Hua, Siwei Liu, Xiao Luo. Messages Are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-series Forecasting. IEEE Transactions on Pattern Analysis and Machine Intelligence. (accepted)
 . *Bin Gu*, Xiyuan Wei, Hualin Zhang, Yi Chang, Heng Huang. Obtaining Lower Query Complexities through Lightweight Zeroth-Order Proximal Gradient Algorithms. Neural Computation. (accepted)
@@ -14,8 +16,8 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Zhiyuan Dang, *Bin Gu*, Cheng Deng, Heng Huang. Asynchronous Parallel Large-Scale Gaussian Process Regression. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
 . Haiyan Chen, Yin Yu, Yizhen Jia, *Bin Gu*. Incremental Learning for Transductive Support Vector Machine. Pattern Recognition. (accepted)
 . Zhou Zhai, Heng Huang, *Bin Gu*. Kernel Path for Semi-Supervised Support Vector Machine. IEEE Transactions on Neural Networks and Learning Systems. (accepted)
-. Ziran Xiong, Charles X. Ling, *Bin Gu*. Kernel Error Path Algorithm. IEEE Transactions on Neural Networks and Learning Systems. 
-. Haiyan Chen, Yizhen Jia, Jiaming Ge, *Bin Gu*. Incremental learning algorithm for large-scale semi-supervised ordinal regression. Neural Networks. 
+. Ziran Xiong, Charles X. Ling, *Bin Gu*. Kernel Error Path Algorithm. IEEE Transactions on Neural Networks and Learning Systems. 34(11), pp. 8866 - 8878, 2022.
+. Haiyan Chen, Yizhen Jia, Jiaming Ge, *Bin Gu*. Incremental learning algorithm for large-scale semi-supervised ordinal regression. Neural Networks. 149 (2022): 124-136.
 . *Bin Gu*, Ziran Xiong, Xiang Li, Zhou Zhai, Guansheng Zheng. Kernel Path for $\nu$-Support Vector Classification. IEEE Transactions on Neural Networks and Learning Systems.
 . *Bin Gu*, Xiyuan Wei, Shangqian Gao, Ziran Xiong, Cheng Deng and Heng Huang. Back-Box Reductions for Zeroth-Order Gradient Algorithms to Achieve Lower Query Complexity. Journal of Machine Learning Research (JMLR). 
 . *Bin Gu*, Charles X. Ling. Generalized Error Path Algorithm. Pattern Recognition. 
@@ -54,6 +56,15 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 
 
 == Conferences
+. Srinivas Anumasa, Velibor Bojkovic, Giulia De Masi, *Bin Gu*, Huan Xiong. Data Driven Threshold and Potential Initialization for Ultra-low Latency Performance of Spiking Neural Networks. AISTATS 2024. (accepted)
+. Zhou Zhai, Wanli Shi, Heng Huang, Yi Chang, *Bin Gu*. Learning Sampling Policy to Achieve Fewer Queries for Zeroth-Order Optimization. AISTATS 2024. (accepted)
+. Yajing Fan, Wanli Shi, Yi Chang, *Bin Gu*. Fast and Adversarial Robust Kernelized SDU Learning. AISTATS 2024. (accepted)
+. Longkang Li, Ignavier Ng, Gongxu Luo, Biwei Huang, Guangyi Chen, Tongliang Liu, *Bin Gu*, Kun Zhang. Federated Causal Discovery from Heterogeneous Data. ICLR 2024. (accepted)
+. Nan Yin, Mengzhu Wang, Zhenghan Chen, Li Shen, Huan Xiong, *Bin Gu*, Xiao Luo. DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption. ICLR 2024. (accepted)
+. Bhaskar Mukhoty, Hilal AlQuabeh, Giulia De Masi, Huan Xiong, *Bin Gu*. Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks. ICLR 2024. (accepted)
+. Haiyan Jiang, Vincent Zoonekynd, Giulia De Masi, *Bin Gu*, Huan Xiong. TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks. ICLR 2024. (accepted)
+. Xinyue Liu, Hualin Zhang, *Bin Gu*, Hong Chen. General Stability Analysis for Zeroth-Order Optimization Algorithms. ICLR 2024. (accepted)
+. Diyang Li, Charles Ling, Zhiqiang Xu, Huan Xiong, *Bin Gu*. Learning No-Regret Sparse Generalized Linear Models with Varying Observation(s). ICLR 2024. (spotlight)
 . Hilal Mohammad Hilal AlQuabeh, William de Vazelhes, *Bin Gu*. Limited Memory Online Gradient Descent for Kernelized Pairwise Learning with Dynamic Averaging. AAAI 2024. (accepted)
 .  William de Vazelhes, Bhaskar Mukhoty, Xiaotong Yuan, *Bin Gu*. Iterative Regularization with k-Support Norm: an Important Complement to Sparse Recovery. AAAI 2024. (accepted)
 . Nan Yin, Mengzhu Wang, Giulia De Masi, *Bin Gu*, Huan Xiong. Dynamic Spiking Graph Neural Networks. AAAI 2024. (accepted)
