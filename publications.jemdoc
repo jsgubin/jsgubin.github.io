@@ -59,6 +59,7 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . Srinivas Anumasa, Velibor Bojkovic, Giulia De Masi, *Bin Gu*, Huan Xiong. Data Driven Threshold and Potential Initialization for Ultra-low Latency Performance of Spiking Neural Networks. AISTATS 2024. (accepted)
 . Zhou Zhai, Wanli Shi, Heng Huang, Yi Chang, *Bin Gu*. Learning Sampling Policy to Achieve Fewer Queries for Zeroth-Order Optimization. AISTATS 2024. (accepted)
 . Yajing Fan, Wanli Shi, Yi Chang, *Bin Gu*. Fast and Adversarial Robust Kernelized SDU Learning. AISTATS 2024. (accepted)
+. Xinzhe Yuan, William de Vazelhes, *Bin Gu*, Huan Xiong. New Insight of Variance Reduce in Zero-Order Hard-Thresholding: Mitigating Gradient Error and Expansivity Contradictions. ICLR 2024. (accepted)
 . Longkang Li, Ignavier Ng, Gongxu Luo, Biwei Huang, Guangyi Chen, Tongliang Liu, *Bin Gu*, Kun Zhang. Federated Causal Discovery from Heterogeneous Data. ICLR 2024. (accepted)
 . Nan Yin, Mengzhu Wang, Zhenghan Chen, Li Shen, Huan Xiong, *Bin Gu*, Xiao Luo. DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption. ICLR 2024. (accepted)
 . Bhaskar Mukhoty, Hilal AlQuabeh, Giulia De Masi, Huan Xiong, *Bin Gu*. Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks. ICLR 2024. (accepted)
@@ -134,4 +135,4 @@ Full publications can be found in [https://scholar.google.com/citations?user=Vo8
 . *Bin Gu*,Charles X. Ling. A New Generalized Error Path Algorithm for Model Selection. ICML 2015.
 . *Bin Gu*, Victor S. Sheng. Bi-parameter Space Partition for Cost-Sensitive SVM. IJCAI 2015.
 . Xiang Li, Huaiming Wang, *Bin Gu*, Charles X. Ling. Data Sparseness in Linear SVM. IJCAI 2015.
-. *Bin Gu*, Jian-Dong Wang, and Hai-yan Chen. On-line Off-line Ranking Support Vector Machine and Analysis. In Proceedings of International Joint Conference on Neural Networks (IJCNNâ€?2008), New York: IEEE Press, 2008.
+. *Bin Gu*, Jian-Dong Wang, and Hai-yan Chen. On-line Off-line Ranking Support Vector Machine and Analysis. In Proceedings of International Joint Conference on Neural Networks (IJCNN 2008), New York: IEEE Press, 2008.
