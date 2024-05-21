@@ -61,7 +61,6 @@ regions of convolutional neural networks with piecewise linear activations, IEEE
 
 
 
-<<<<<<< HEAD
 == Conferences
 . Haozhen Zhang, Hualin Zhang, *Bin Gu*, Yi Chang. Subspace Selection based Prompt Tuning with Nonconvex Nonsmooth Black-Box Optimization. KDD 2024. (accepted)
 . Ke Zhang, Ganyu Wang, Han Li, Yulong Wang, Hong Chen, *Bin Gu*. Asynchronous Vertical Federated Learning for Kernelized AUC Maximization. KDD 2024. (accepted)
@@ -69,17 +68,10 @@ regions of convolutional neural networks with piecewise linear activations, IEEE
 . Haiyan Jiang, Giulia De Masi, Huan Xiong, *Bin Gu*. NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks. ICML 2024. (accepted)
 . Chengqian Gao, William de Vazelhes, Hualin Zhang, *Bin Gu*, Zhiqiang Xu. Hard-Thresholding Meets Evolution Strategies in Reinforcement Learning. IJCAI 2024. (accepted)
 . Xuelin Zhang, Hong Chen, *Bin Gu*, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024. (accepted)
-=======
-== Conferences
-. Wanli Shi, Yi Chang, Bin Gu. Double Momentum Method for Lower-Level Constrained Bilevel Optimization. ICML 2024. (accepted)
-. Haiyan Jiang, Giulia De Masi, Huan Xiong, Bin Gu. NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks. ICML 2024. (accepted)
-. Chengqian Gao, William de Vazelhes, Hualin Zhang, *Bin Gu*, Zhiqiang Xu. Hard-Thresholding Meets Evolution Strategies in Reinforcement Learning. IJCAI 2024. (accepted)
-. Xuelin Zhang, Hong Chen, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024. (accepted)
->>>>>>> 88a445f7417b2bed77bc04d20f97ebb9e81846b7
 . Srinivas Anumasa, Velibor Bojkovic, Giulia De Masi, *Bin Gu*, Huan Xiong. Data Driven Threshold and Potential Initialization for Ultra-low Latency Performance of Spiking Neural Networks. AISTATS 2024. 
 . Zhou Zhai, Wanli Shi, Heng Huang, Yi Chang, *Bin Gu*. Learning Sampling Policy to Achieve Fewer Queries for Zeroth-Order Optimization. AISTATS 2024. 
 . Yajing Fan, Wanli Shi, Yi Chang, *Bin Gu*. Fast and Adversarial Robust Kernelized SDU Learning. AISTATS 2024.
-. Xinzhe Yuan, William de Vazelhes, *Bin Gu*, Huan Xiong. New Insight of Variance Reduce in Zero-Order Hard-Thresholding: Mitigating Gradient Error and Expansivity Contradictions. ICLR 2024. 
+. Xinzhe Yuan, William de Vazelhes, *Bin Gu*, Huan Xiong. New Insight of Variance Reduce in Zero-Order Hard-Thresholding: Mitigating Gradient Error and Expansivity Contradictions. ICLR 2024.
 . Longkang Li, Ignavier Ng, Gongxu Luo, Biwei Huang, Guangyi Chen, Tongliang Liu, *Bin Gu*, Kun Zhang. Federated Causal Discovery from Heterogeneous Data. ICLR 2024. 
 . Nan Yin, Mengzhu Wang, Zhenghan Chen, Li Shen, Huan Xiong, *Bin Gu*, Xiao Luo. DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption. ICLR 2024. 
 . Bhaskar Mukhoty, Hilal AlQuabeh, Giulia De Masi, Huan Xiong, *Bin Gu*. Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks. ICLR 2024. 
